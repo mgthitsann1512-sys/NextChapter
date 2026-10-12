@@ -1,4 +1,4 @@
-const CACHE='next-chapter-cafe-v10';
+const CACHE='next-chapter-cafe-v11';
 const APP_SHELL=['./','./index.html','./manifest.webmanifest','./icon-192.svg','./icon-512.svg','./logo.png'];
 const APP_SCOPE=new URL('./',self.location.href);
 self.addEventListener('install',event=>{
