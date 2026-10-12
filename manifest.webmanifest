@@ -2,7 +2,7 @@
   "name": "Next Chapter Cafe Daily Log",
   "short_name": "Cafe Daily Log",
   "description": "Offline sales, expenses and investor share tracker",
-  "start_url": "./index.html?app=v8",
+  "start_url": "./index.html?app=v9",
   "scope": "./",
   "display": "standalone",
   "background_color": "#fffaf0",
